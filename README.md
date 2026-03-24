@@ -18,3 +18,6 @@ A Python-based static code analysis tool that scans GitHub repositories to detec
 ## ▶️ How to Run
 ```bash
 python scanner.py
+## 📊 Sample Output
+
+![Report Screenshot](report.png)
