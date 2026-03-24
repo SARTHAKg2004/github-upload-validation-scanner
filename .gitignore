@@ -2,3 +2,4 @@ repo*
 output/
 __pycache__/
 *.pyc
+!report.png
