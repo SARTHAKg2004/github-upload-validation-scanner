@@ -1,0 +1,6 @@
+flask
+gitpython
+openpyxl
+chardet
+python-dotenv
+requests
