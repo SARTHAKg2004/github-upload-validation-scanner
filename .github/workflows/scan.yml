@@ -36,7 +36,7 @@ jobs:
         run: python main.py --url https://github.com/${{ github.repository }}
 
       - name: Upload Report
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: scan-report
           path: uploads/
